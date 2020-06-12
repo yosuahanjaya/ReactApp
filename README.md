@@ -66,3 +66,13 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+
+
+### creation
+npx create-react-app . 
+
+    index.html --> <div class="root"> here is your program </div>  
+    entry point is index.js <App/>
+    inside App you can add many more components.
