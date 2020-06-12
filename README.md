@@ -76,3 +76,6 @@ npx create-react-app .
     index.html --> <div class="root"> here is your program </div>  
     entry point is index.js <App/>
     inside App you can add many more components.
+
+npm i uuid (take a look at import style)
+npm i react-router-dom
